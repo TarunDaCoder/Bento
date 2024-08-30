@@ -169,7 +169,7 @@ const CONFIG = {
           link: "https://neovim.io",
         },
         {
-          name: "Trello",
+          name: "GitHub",
           link: "https://github.com",
         },
         {
